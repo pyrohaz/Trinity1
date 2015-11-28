@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1448686021 source:c:\users\haz\documents\c projects\trinity1\trinity1\trinity\main.cpp
+	<iostream>
+	"Tokenizer.h"
+
+1448685763 c:\users\haz\documents\c projects\trinity1\trinity1\trinity\include\tokenizer.h
+	<string>
+	<sstream>
+	<iostream>
+	<vector>
+	"Word.h"
+	"Punctuation.h"
+
+1448685309 c:\users\haz\documents\c projects\trinity1\trinity1\trinity\include\word.h
+	<string>
+	<sstream>
+	<iostream>
+
+1448685915 c:\users\haz\documents\c projects\trinity1\trinity1\trinity\include\punctuation.h
+
+1448685887 source:c:\users\haz\documents\c projects\trinity1\trinity1\trinity\src\punctuation.cpp
+	"Punctuation.h"
+
+1448686039 source:c:\users\haz\documents\c projects\trinity1\trinity1\trinity\src\tokenizer.cpp
+	"Tokenizer.h"
+
+1448684981 source:c:\users\haz\documents\c projects\trinity1\trinity1\trinity\src\word.cpp
+	"Word.h"
+
